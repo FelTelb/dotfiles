@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = felipetellezb@outlook.com
+	name = Felipe TELLEZ
